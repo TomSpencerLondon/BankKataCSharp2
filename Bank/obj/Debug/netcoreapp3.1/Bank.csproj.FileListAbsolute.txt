@@ -1,0 +1,12 @@
+/Users/tomspencer/Desktop/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/tomspencer/Desktop/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/tomspencer/Desktop/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/tomspencer/Desktop/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/tomspencer/Desktop/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csprojAssemblyReference.cache
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/tomspencer/Desktop/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
